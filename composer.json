@@ -1,14 +1,17 @@
 {
-    "name": "shibuyakosuke/laravel-language-setting",
+    "name": "kitamula/laravel-language-setting",
     "description": "Translate files generator for laravel",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "ShibuyaKosuke",
-            "email": "shibuya@imagenious.co.jp"
+            "name": "kitamula",
+            "email": "s.kitamura.biz@gmail.com"
         }
     ],
+    "replace": {
+        "ShibuyaKosuke/laravel-language-setting": "1.1.1"
+    },
     "autoload": {
         "psr-4": {
             "ShibuyaKosuke\\LaravelLanguageSetting\\": "src/"
