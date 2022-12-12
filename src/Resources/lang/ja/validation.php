@@ -145,6 +145,17 @@ return [
     |
     */
 
-    'attributes' => [],
+    'attributes' => [
+        'email' => 'メールアドレス',
+        'email_confirmation' => 'メールアドレス(再入力)',
+        'tel' => '電話番号',
+        'zip' => '郵便番号',
+        'address' => '住所',
+        'company_name' => '会社名',
+        'name' => 'お名前',
+        'first_name' => '名',
+        'last_name' => '姓',
+        'body' => '本文',
+    ],
 
 ];
