@@ -10,7 +10,7 @@
         }
     ],
     "replace": {
-        "ShibuyaKosuke/laravel-language-setting": "1.1.1"
+        "shibuyakosuke/laravel-language-setting": "1.1.1"
     },
     "autoload": {
         "psr-4": {
